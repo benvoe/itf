@@ -1,0 +1,35 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+#libreoffice lock file
+.~lock.*
+
+#visual studio file
+.vscode
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.dia~
+
+build/
+dist/
+
+#vim files
+.ropeproject*
+*.swp
+*.suo
+src/src.pyproj
+*.sln
