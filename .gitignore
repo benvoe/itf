@@ -33,3 +33,8 @@ dist/
 *.suo
 src/src.pyproj
 *.sln
+
+#pdflatex files
+bericht/*.tex.un~
+bericht/*.aux
+bericht/*.log
