@@ -6,5 +6,8 @@
 \contentsline {section}{\numberline {1.3}Beweismittelkette}{3}
 \contentsline {section}{\numberline {1.4}Arbeitsumbgebung}{3}
 \contentsline {chapter}{\numberline {2}Zusammenfassung f\IeC {\"u}r Nicht-Techniker}{4}
+\contentsline {section}{\numberline {2.1}Illegale Daten}{4}
+\contentsline {section}{\numberline {2.2}Datenveruntreuung}{4}
+\contentsline {section}{\numberline {2.3}Wirtschaftsspionage}{4}
 \contentsline {chapter}{\numberline {3}Zusammenfassung f\IeC {\"u}r Techniker}{5}
 \contentsline {chapter}{\numberline {A}Details f\IeC {\"u}r Techniker}{6}
