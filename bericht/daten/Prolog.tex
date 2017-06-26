@@ -3,16 +3,48 @@
 
 \section{Auftrag}
 \label{sec:auftrag}
-Auftrag (Beschreibung des Delikts, z.B. Softwarepiraterie, Computersabotage)
+Nachdem auf einer kürzlich verkauften Workstation, die ehemals im Besitz der Firma M57.biz war, illegale Daten gefunden wurden, soll der Besitzer der Daten ermittelt werden. Ebenfalls ist herauszufinden, wie es zum Verkauf des Geräts kam, ob es sich dabei um Diebstahl handelt und wer daran beteiligt war. Da das Gerät ursprünglich die Workstation des Mitarbeiters Jo Smith war, wird die Hypothese aufgestellt, dass dieser der Verantwortliche im oben beschriebenen Sachverhalt ist.
+
+Bei den Untersuchungen fielen weitere Sachverhalte auf, die darüber hinaus untersucht werden sollten. Zum einen war dies, dass Firmengeheimnisse veruntreut wurden, zum anderen, dass der CEO Pat MacGoo von einem der Mitarbeitern ausspioniert wurde.
+
+In Bezug auf die Veruntreuung sollte der Verantwortliche gefunden werden, welche Daten weitergegeben wurden und wer die Daten erhalten hat.
+
+Bei der Spionage soll ermittelt werden von wem und aus welchem Grund sie durchgeführt wird sowie welche Methoden angewandt wurden.
+
 
 \section{Beweismittel}
 \label{sec:beweismittel}
-Auflistung der Beweismittel (z.B. Festplatten-Seriennummern)
+Als Beweismittel wurden jeweils vier Festplattenimages, USB-Stick-Images und RAM-Images erhalten.
+
+\begin{table}[htb]
+	\centering
+	\caption{Images}
+	\begin{tabular}{r l c l}
+		Nr. & Image & Größe in GB & MD5-Hash\\\hline
+		1 & charlie_harddrive & 10,2 & 3017c4188553d7423cd6646a7ff1c1a9\\
+		2 & jo_harddrive & 15,4 & 872e38f83628f2c3a203457c90e57fdb\\
+		3 & pat_harddrive & 13,0 & 8f39599fc63bdda285158ea20ee3d567\\
+		4 & terry_harddrive & 41,1 & f945f4e23fe82868547cada9868c48c0\\
+		5 & charlie-2009-12-11 & 2,1 & 38067CC457546B3156975D9A52D4229F\\
+		6 & jo-2009-12-11 & 1,1 & E929219719211F51267C5DFB5406A5AB\\
+		7 & pat-2009-12-11 & 0,5348 & CE9D8A9979F2BADE5228393B8AC1E3FD\\
+		8 & terry-2009-12-11 & 2,1 & 6B43EB293D85BDD6AD5EF2B2F84F8584\\
+		9 & charlie_work_usbdrive & 1,1 & f7f625f56b0337d4d23e423f2ead119e\\
+		10 & jo_private_usbdrive & 1,0 & b1ea0a9edae0b3558bb43566ef20e90d\\
+		11 & jo_work_usbdrive & 0,131 & 59a3620fdd4210b6e909ada29a340877\\
+		12 & terry_work_usbrive & 2,1 & 9d84f913f3d056e45bd82ed78aa9ba6f
+	\end{tabular}
+\end{table}
+
 
 \section{Beweismittelkette}
 \label{sec:beweismittelkette}
-Dokumentation der Chain of Custody (wann von wem ausgehändigt etc.;zusätzlich zum Formular der Asservatenkammer)
+Die Beweismittel wurden am 20. Juni 2017 um 12:26 im Raum E124 der FH Aachen Eupenerstraße von Chief Inspektor Benedikt Paffen an Ermittler Benedikt Völker ausgehändigt. Bezeugt wurde diese Übergabe von Jill Kleiber.
+
+Im Anschluss wurden die Beweismittel vervielfältigt und zur Unterstützung bei den Untersuchungen an die weiteren Teammitglieder übergeben. Eine Vervielfältigung aller Beweismittel erhielt Alexander Reuter am 20. Juni 2017. Ebenfalls an diesem Tag wurden Simon Bergedieck eine Kopie der Beweismittel 1,5 und 9 übergeben. Jill Kleiber erhielt ein Duplikat aller Beweismittel am 23. Juni 2016. Die Orginalbeweise verblieben bei Benedikt Völker, der sie so verwahrte, dass ein Austausch ausgeschlossen ist. Die Integrität der Beweismittel wird durch die Bereitstellung und regelmäßige Überprüfung der Hash-Werte gewährleistet.
 
 \section{Arbeitsumbgebung}
 \label{sec:arbeitsumgebung}
-Beschreibung der Arbeitsumgebung (wann, wo mit den Daten gearbeitet, welche Tools und Arbeitsumgebung benutzt)
+Alle Ermittler nutzten eine Windows 10 64 Bit Version. Als Analyseprogramme wurden Autopsy Version 4.4.0 mit Sleuth Kit Version 4.4.1 und Volatility Version 2.6 verwendet.
+
+Die Untersuchungen fanden im Zeitraum zwischen dem 20. Juni 2017 und dem \the\day. \monthword{\the\month} \the\year in dafür geeigneten Räumlichkeiten des forensischen Trakts der FH Aachen Eupenerstraße (Besucherraum der Mensa) statt. 
