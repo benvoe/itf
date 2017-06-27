@@ -11,4 +11,5 @@
 \contentsline {section}{\numberline {2.3}Wirtschaftsspionage}{4}
 \contentsline {chapter}{\numberline {3}Zusammenfassung f\IeC {\"u}r Techniker}{5}
 \contentsline {section}{\numberline {3.1}Alex}{5}
+\contentsline {section}{\numberline {3.2}Ben}{5}
 \contentsline {chapter}{\numberline {A}Details f\IeC {\"u}r Techniker}{6}
