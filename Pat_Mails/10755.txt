@@ -1,0 +1,142 @@
+# FILE wbk17.tmp
+
+Name
+/img_pat_harddrive.001/Documents and Settings/Pat/Local Settings/Temporary Internet Files/Content.IE5/6NU83K2N/wbk17.tmp
+
+Type
+File System
+
+MIME Type
+text/html
+
+Size
+3247
+
+File Name Allocation
+Allocated
+
+Metadata Allocation
+Allocated
+
+Modified
+2009-11-20 19:46:57 MEZ
+
+Accessed
+2009-11-20 19:46:57 MEZ
+
+Created
+2009-11-20 19:46:57 MEZ
+
+Changed
+2009-11-20 19:46:57 MEZ
+
+MD5
+4e154aac9f3883edc21b8a09a1737dd4
+
+Hash Lookup Results
+UNKNOWN
+
+Internal ID
+10755
+
+# CONTENT
+
+Pat,
+ 
+It costs more when you need a new hard drive immediatley.  Here's hoping to 
+this drive being good.
+ 
+Thanks,
+ 
+Terry
+IT Administrator, M57.biz
+terry@m57.biz
+
+  ----- Original Message -----
+  From: Pat McGoo
+  To: Terry Johnson
+  Sent: Thursday, November 19, 2009 1:04 PM
+  Subject: Re: Hard Drive Receipt
+
+  Terry,
+   
+  It seems that $300 is a little expensive for a 40GB hard drive.  Oh well,
+  at least work is getting done.
+   
+  Thanks,
+   
+  Pat
+  CEO, M57.biz
+  pat@m57.biz
+
+    ----- Original Message -----
+    From: Terry Johnson
+    To: Pat McGoo
+    Sent: Thursday, November 19, 2009 12:58 PM
+    Subject: Hard Drive Receipt
+
+    Pat,
+
+    Please see the attached image/document for the hard drive receipt.
+     
+    Thanks,
+     
+    Terry
+    IT Administrator, M57.biz
+    terry@m57.biz
+     
+
+----------NONVISIBLE TEXT----------
+
+---Links---
+1)  href=""
+2)  title=pat@m57.biz href="mailto:pat@m57.biz"
+3)  title=terry@m57.biz 
+  href="mailto:terry@m57.biz"
+4)  
+  href="mailto:pat@m57.biz"
+5)  title=terry@m57.biz href="mailto:terry@m57.biz"
+6)  title=pat@m57.biz 
+    href="mailto:pat@m57.biz"
+7)  href="mailto:terry@m57.biz"
+
+---Others---
+1) meta: content="text/html; charset=iso-8859-1" http-equiv=Content-Type
+2) meta: name=GENERATOR content="MSHTML 8.00.6001.18828"
+3) body: bgColor=#ffffff
+4) font: size=2 face=Arial
+5) font: size=2 face=Arial
+6) font: size=2 face=Arial
+7) font: size=2 face=Arial
+8) font: size=2 face=Arial
+9) font: size=2 face=Arial
+10) font: size=2 face=Arial
+11) blockquote: 
+style="BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px" 
+dir=ltr
+12) div: style="FONT: 10pt arial"
+13) div: 
+  style="FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: black"
+14) div: style="FONT: 10pt arial"
+15) div: style="FONT: 10pt arial"
+16) div: style="FONT: 10pt arial"
+17) font: size=2 face=Arial
+18) font: size=2 face=Arial
+19) font: size=2 face=Arial
+20) font: size=2 face=Arial
+21) font: size=2 face=Arial
+22) font: size=2 face=Arial
+23) font: size=2 face=Arial
+24) font: size=2 face=Arial
+25) font: size=2 face=Arial
+26) blockquote: 
+  style="BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px" 
+  dir=ltr
+27) div: style="FONT: 10pt arial"
+28) div: 
+    style="FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: black"
+29) div: style="FONT: 10pt arial"
+30) div: style="FONT: 10pt arial"
+31) div: style="FONT: 10pt arial"
+32) font: size=2 face=Arial
+33) font: size=2 face=Arial
