@@ -1,0 +1,26 @@
+Datenexfiltration an project2400: emailkontakt mit jamie@project2400.com (siehe files 1-6)
+angebot: 50k für daten (datenexfiltration)
+steganographie bild (file 4) inhalt: file 5 pw siehe file 6
+patentinformationen bzglich zeitmaschine
+
+swexpert: 
+patentinformationen bzglich unsterblichkeitspatent die bestenhendes patent der firma invalidieren
+siehe files 7-10
+forderung: 100k (erpressung) file 7 ( drohung dateien öffentlich zu machen sollte nicht gezahlt werden)
+file 8: bestehendes patent als zip
+files 9&10: inhalte zip
+
+
+
+files
+1: Charlie_2009-12-02_1325_Sent
+2: Charlie_2009-12-03_0951_Received
+3: Charlie_2009-12-03_1216_Sent
+4: Charlie_2009-12-03_1216_Sent_astronaut1
+5: Nitroba work
+6: Charlie_2009-12-04_1306_Sent
+
+7: Charlie_2009-12-04_0941_Sent
+8: Charlie_2009-12-04_0941_Sent_01
+9: us005026637-001.tif
+10: us006982168-001.tif

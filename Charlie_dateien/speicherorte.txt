@@ -1,0 +1,3 @@
+emails& bilder: sowohl auf hdd unter emails als auch auf dem usb stick direkt
+nitroba doc: hdd-mydocuments-nitroba
+inhalte zip: usb-immortality
