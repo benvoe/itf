@@ -10,36 +10,38 @@
 \contentsline {section}{\numberline {2.2}Datenveruntreuung}{4}
 \contentsline {section}{\numberline {2.3}Wirtschaftsspionage}{4}
 \contentsline {chapter}{\numberline {3}Zusammenfassung f\IeC {\"u}r Techniker}{5}
-\contentsline {section}{\numberline {3.1}Alex}{5}
-\contentsline {section}{\numberline {3.2}Ben}{5}
-\contentsline {chapter}{\numberline {A}Details f\IeC {\"u}r Techniker}{6}
-\contentsline {section}{\numberline {A.1}Emails von Pat's PC}{6}
-\contentsline {subsection}{\numberline {A.1.1}FILE 1:}{6}
-\contentsline {subsection}{\numberline {A.1.2}FILE 2:}{7}
-\contentsline {subsection}{\numberline {A.1.3}FILE 3:}{7}
-\contentsline {subsection}{\numberline {A.1.4}FILE 4:}{9}
-\contentsline {subsection}{\numberline {A.1.5}FILE 5:}{10}
-\contentsline {subsection}{\numberline {A.1.6}FILE 6:}{11}
-\contentsline {subsection}{\numberline {A.1.7}FILE 7:}{12}
-\contentsline {subsection}{\numberline {A.1.8}FILE 8:}{12}
-\contentsline {subsection}{\numberline {A.1.9}FILE 9:}{13}
-\contentsline {subsection}{\numberline {A.1.10}FILE 10:}{14}
-\contentsline {subsection}{\numberline {A.1.11}FILE 11:}{15}
-\contentsline {subsection}{\numberline {A.1.12}FILE 12:}{16}
-\contentsline {subsection}{\numberline {A.1.13}FILE 13:}{16}
-\contentsline {subsection}{\numberline {A.1.14}FILE 14:}{17}
-\contentsline {subsection}{\numberline {A.1.15}FILE 15:}{18}
-\contentsline {subsection}{\numberline {A.1.16}FILE 16:}{19}
-\contentsline {subsection}{\numberline {A.1.17}FILE 17:}{19}
-\contentsline {subsection}{\numberline {A.1.18}FILE 18:}{20}
-\contentsline {section}{\numberline {A.2}Daten von Charlie's HDD und USB-Stick}{21}
-\contentsline {subsection}{\numberline {A.2.1}FILE 1:}{21}
-\contentsline {subsection}{\numberline {A.2.2}FILE 2:}{21}
-\contentsline {subsection}{\numberline {A.2.3}FILE 3:}{22}
-\contentsline {subsection}{\numberline {A.2.4}FILE 4:}{22}
-\contentsline {subsection}{\numberline {A.2.5}FILE 5:}{22}
-\contentsline {subsection}{\numberline {A.2.6}FILE 6:}{23}
-\contentsline {subsection}{\numberline {A.2.7}FILE 7:}{23}
-\contentsline {subsection}{\numberline {A.2.8}FILE 8:}{23}
-\contentsline {subsection}{\numberline {A.2.9}FILE 9:}{23}
-\contentsline {subsection}{\numberline {A.2.10}FILE 10:}{24}
+\contentsline {section}{\numberline {3.1}Jo}{5}
+\contentsline {section}{\numberline {3.2}Charlie}{5}
+\contentsline {section}{\numberline {3.3}Terry}{6}
+\contentsline {section}{\numberline {3.4}Pat}{6}
+\contentsline {chapter}{\numberline {A}Details f\IeC {\"u}r Techniker}{7}
+\contentsline {section}{\numberline {A.1}Emails von Pat's PC}{7}
+\contentsline {subsection}{\numberline {A.1.1}FILE 1:}{7}
+\contentsline {subsection}{\numberline {A.1.2}FILE 2:}{8}
+\contentsline {subsection}{\numberline {A.1.3}FILE 3:}{8}
+\contentsline {subsection}{\numberline {A.1.4}FILE 4:}{10}
+\contentsline {subsection}{\numberline {A.1.5}FILE 5:}{11}
+\contentsline {subsection}{\numberline {A.1.6}FILE 6:}{12}
+\contentsline {subsection}{\numberline {A.1.7}FILE 7:}{13}
+\contentsline {subsection}{\numberline {A.1.8}FILE 8:}{13}
+\contentsline {subsection}{\numberline {A.1.9}FILE 9:}{14}
+\contentsline {subsection}{\numberline {A.1.10}FILE 10:}{15}
+\contentsline {subsection}{\numberline {A.1.11}FILE 11:}{16}
+\contentsline {subsection}{\numberline {A.1.12}FILE 12:}{17}
+\contentsline {subsection}{\numberline {A.1.13}FILE 13:}{17}
+\contentsline {subsection}{\numberline {A.1.14}FILE 14:}{18}
+\contentsline {subsection}{\numberline {A.1.15}FILE 15:}{19}
+\contentsline {subsection}{\numberline {A.1.16}FILE 16:}{20}
+\contentsline {subsection}{\numberline {A.1.17}FILE 17:}{20}
+\contentsline {subsection}{\numberline {A.1.18}FILE 18:}{21}
+\contentsline {section}{\numberline {A.2}Daten von Charlie's HDD und USB-Stick}{22}
+\contentsline {subsection}{\numberline {A.2.1}FILE 1:}{22}
+\contentsline {subsection}{\numberline {A.2.2}FILE 2:}{22}
+\contentsline {subsection}{\numberline {A.2.3}FILE 3:}{23}
+\contentsline {subsection}{\numberline {A.2.4}FILE 4:}{23}
+\contentsline {subsection}{\numberline {A.2.5}FILE 5:}{24}
+\contentsline {subsection}{\numberline {A.2.6}FILE 6:}{24}
+\contentsline {subsection}{\numberline {A.2.7}FILE 7:}{24}
+\contentsline {subsection}{\numberline {A.2.8}FILE 8:}{26}
+\contentsline {subsection}{\numberline {A.2.9}FILE 9:}{27}
+\contentsline {subsection}{\numberline {A.2.10}FILE 10:}{28}

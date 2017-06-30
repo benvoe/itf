@@ -7,32 +7,37 @@ Maximal 10 Seiten, übersichtlich gegliedert nach Schritten in der Ermittlung
 Technikersprache, wesentliche Spuren und Fundorte dokumentieren
 Bei Details auf Anhang verweisen
 
-\section{Alex}
-Jos-Katzenfetisch:
-Katzenbilder und Videos wurden auf dem Privaten USB-Stick gefunden. -> Existierten aber auch auf der HDD, wurden dort aber gelöscht.
-Auf den USB-Stick wurden die Dateien kopiert (vermutlich vom PC).
+Die Beweismittel wurden personenweise auf die Ermittler aufgeteilt und mittels Autopsy, Sleuth Kit und Volatility gründlich untersucht. Während der Ermittlungen wurde bei allen Images nach Beweisen bezüglich aller Fälle gesucht.
 
-Pat Rechner:
-Prozess 756 Winvnc4.exe lief auf dem Rechner (Aus dem Ramimage herausgefunden).
-auf Patd HDD -> terry besitzt dort ein Benutzerprofil -> terry hat sich auf jeden Fall schon an dem Rechner angemeldet!
-  vnc-4_1_3-x86_win32.exe auf dem USB-Stick gefunden.
+\section{Jo}
+\label{sec:jo}
+Zunächst wurde der private USB-Stick untersucht, da dort die Besitzverhältnisse der Daten klar sind. Auf besagtem Beweisstück waren die gesuchten illegalen Daten in den Ordnern \textit{HighQuality} und \textit{Videos}. Bei der Untersuchung des Festplattenimages konnten die identischen Dateien in den \textit{carved Files} gefunden werden. Die Identität wurde mit Hashwerten überprüft, welche für die korrespondierenden Dateien erfolgreich validiert werden konnten. 
 
-terry hat ein Gerichtsbeschluss bzgl. eines Vorfalls der darauf schließen lässt, das er auch hier in diesem Fall involviert ist. (er will sich möglicherweise Informieren was passieren kann wenn er erwicht wird.)
-Der gerichtsbeschluss liegt auf der Festplatte von terry:
-/Users/terry/Documents/Downloads/comcast_indictment.pdf
+Darüber hinaus befanden sich auf dem Work USB-Stick im Ordner \textit{_TiggerTheCat} ebenfalls die gelöschten illegalen Dateien.
 
-\section{Ben}
-Pats PC:
-Es wurden alte Email-Konversationen in temporären Dateien gefunden, welche durch den IE5 erstellt wurden.
-Heraus lassen sich einige Informationen über die Sachverhalte herausfinden.
+Eine Überprüfung der Timestamps ergab, dass die Dateien am 18.11.2009 auf den privaten USB-Stick kopiert wurden. Jo's Workstation wurde am 20.11.2009 ausgetauscht (s. \fref{sec:pat_emails_1}). Es kann daraus geschlussfolgert werden, dass die Dateien bereits vor dem Austausch in Jo's Besitz waren und die Dateien auf der verkauften Workstation  dementsprechend vermutlich von ihm stammen.
 
-Computerverkauf:
-File 1, 10, 16 -> Terry kümmert sich um Jo's alten PC, während Polizeiermittlungen wird nach Seriennummer gefragt
+\section{Charlie}
+\label{sec:charlie}
+Die forensischen Untersuchungen von Charlie's Images ergaben einige Dateien, die beweisen, dass er sowohl in die Veruntreuung von Daten als auch in Erpressung verwickelt war. Die Daten wurden in Steganographie-Bilder versteckt und per E-Mail versandt. Die belastenden E-Mails und Bilder konnten sowohl auf der HDD im Ordner \textit{Emails} als auch auf dem USB-Stick gefunden werden. 
 
-Datenveruntreuung:
-File 3, 9, 6 -> Charlie bekommt Time machines von Nitroba zugeteilt, project2400 größter Konkurrent von Nitroba
+Bei der Veruntreuung der Daten handelte es sich um die Weitergabe von Ergebnissen bei einer Patentsuche für Nitroba im Projekt Time machines. Die veruntreuten Daten konnten unter \textit{mydocuments/nitrobe} gefunden werden. Zum Einbetten in das Bild \textit{Charlie_2009-12-03_1216_Sent_astronaut1.jpg} (\fref{sec:charlie_daten_4}) wurde das Steganographieprogramm Invisible Secrets gebraucht mit dem Passwort nitro. Der Empfänger der Daten war Jamie von project2400, welches die größten Konkurrenten von Nitroba sind. Charlie erhielt für diese Veruntreuung 50.000 Dollar. Die weiteren Beweise können in Anhang \ref{sec:charlie_daten} File 1 bis 6 eingesehen werden.
 
-Spionage:
-File 19, 11, 7 -> Probleme mit Pat's PC (+ Antivir), Terry kennt Ursache
+Die Erpressung bezog sich auf das Immortality Projekt von swexpert. Der Empfänger, Andy, der E-Mails wird auf 100.000 Dollar erpresst, da Charlie sonst Daten veröffentlicht, die das aktuelle Patent für Immortality ungültig lassen wird. Die Dateien werden als zip versendet und das zugehörige Passwort erneut als Steganographie-Bild (\fref{sec:charlie_daten_10}). Die Inhalte der zip-Datei konnten auch unverschlüsselt im Ordner \textit{Immortality} auf dem USB-Stick gefunden werden (im Anhang \ref{sec:charlie_daten} File 8).
 
-File 5, 2, 4, 8, 12 -> \$300 für 40GB Festplatte, kein Budget für neues Equipment, potentielle Phishing Mail -> Pat will reininvestieren
+\section{Terry}
+\label{sec:terry}
+Auf Terry'S USB-Stick konnten eine größere Ansammlung an Bildern gefunden werden, welche Screenshots vom Ausspionieren von Pat's Workstation zeigen. Des Weiteren konnte auf dem USB-Stick die Datei \textit{vnc-4_1_3-x86_win32.exe} gefunden werden. Eine Internetrecherche ergab, dass das Programm \textit{winvnc4} zum abhören und ausspionieren von Computern dient.
+
+Auf seiner HDD konnte unter dem Pfad \textit{/Users/terry/Documents/Downloads/comcast_indictment.pdf} ein Gerichtsbeschluss über einen Wirtschaftsspionage-Fall gefunden werden, was darauf schließen lässt, dass er entweder auch in diesem Fall beteiligt war, oder sich über mögliche Konsequenzen informieren wollte.\newline
+
+Darüber hinaus befanden sich Kontaktdaten von Terry's Handy auf seiner HDD. Diese zeigen, dass er die Kontaktdaten von Aaron Green, der Käuferin von Jo's alter Workstation abgespeichert hat.
+
+\section{Pat}
+\label{sec:pat}
+Bei Pat konnte im RAM-Image der Prozess \textit{winvnc4.exe} mit der ProzessID \textit{756} am 11.12.2009 gefunden werden. Außerdem besitzt Terry ein Benutzerprofil auf Pat's Festplatte, allerdings nicht auf den Festplatten der anderen beiden Mitarbeiter. Diese beiden Tatsachen lassen darauf schließen, dass Terry Pat ausspioniert hat.
+
+Auch die E-Mails im Anhang \ref{sec:pat_emails} FILE 14 bis 16 in denen Pat über einen langsamen Computer und ein fehlerhaftes Antiviren-Programm klagt und Terry ohne genauere Details sofort die Ursache kennt, deuten auf diesen Tatbestand hin.\newline
+
+Zusätzlich zu den Kontaktdaten auf Terry's Festplatte existiert eine E-Mail an Pat (\fref{sec:pat_emeils_1}), in der Terry erklärt, dass er sich um die Workstation kümmern wird, legt es den Schluss nahe, dass Terry für den Verkauf der Workstation verantwortlich ist.
+
