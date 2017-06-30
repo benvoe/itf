@@ -38,3 +38,7 @@ src/src.pyproj
 bericht/*.tex.un\~
 bericht/*.aux
 bericht/*.log
+
+*.pdf
+*.gz
+*.toc
