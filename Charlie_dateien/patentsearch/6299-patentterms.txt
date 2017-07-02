@@ -1,0 +1,9 @@
+time,2664952
+quantum,50473
+mortality,26619
+cryptography,8431 
+machine,649955
+math,13010 
+time+machine,4971 
+immortality,437
+cryogenics,1385
