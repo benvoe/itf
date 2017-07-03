@@ -1,15 +1,15 @@
-\documentclass[a4paper, 12pt, ngerman]{scrreprt} 
+\documentclass[a4paper, 12pt, ngerman]{scrreprt}
 
 % ========= packages =========
 \input{daten/commonpkg-cfg}
 % ============================
-\newcommand{\monthword}[1]{\ifcase#1\or Januar\or Februar\or März\or April\or	Mai\or Juni\or Juli\or August\or September\or Oktober\or November\or Dezember\fi}    
+\newcommand{\monthword}[1]{\ifcase#1\or Januar\or Februar\or März\or April\or	Mai\or Juni\or Juli\or August\or September\or Oktober\or November\or Dezember\fi}
 
 \newcommand{\code}[1]{\texttt{#1}}
 
 \fancypagestyle{plain}{
 	\fancyhf{}% Clear header/footer
-	\fancyhead[R]{Aktenzeichen 2 - v1.0}% Right header
+	\fancyhead[R]{Aktenzeichen 2 - v2.0}% Right header
 	\fancyfoot[C]{\thepage}% Right footer
 }
 \pagestyle{plain}
@@ -17,55 +17,55 @@
 \setcounter{tocdepth}{1}
 \setcounter{secnumdepth}{3}
 
-\begin{document}	
+\begin{document}
 	\begin{titlepage}
 		\hspace*{17.5cm}\raisebox{-2.6cm}[0pt][0pt]{%
 			\makebox[0pt][r]{%
 				\includegraphics{daten/pics/fhlogoL_FHAC.jpg}
 			}
 		}%
-		
+
 	{
 		\centering
 		{
-			\large 
+			\large
 			\textbf{Ausführende:}\\
 			Jill Kleiber\\
 			Benedikt Völker\\
 			Alexander Reuter\\
-			Simon Bergedieck\\	
+			Simon Bergedieck\\
 		}
 		\vfill
 		{
-			\Huge 
+			\Huge
 			Forensischer Bericht\\
 			der M57.biz-Untersuchungen\\
 		}
 		\vspace{1cm}
 		{
-			\large 
+			\large
 			Aktenzeichen 2\\
-			Version 1.0	
+			Version 2.0
 		}
 		\vfill
 	}
-		
+
 	{
-		\raggedleft	
+		\raggedleft
 		Aachen, \the\day. \monthword{\the\month} \the\year \\
 	}
 	\end{titlepage}
 	\setcounter{page}{1}
-	
+
 	\tableofcontents
 
 \input{daten/Prolog}
 \input{daten/Nicht_Techniker}
 \input{daten/Techniker}
-	
+
 \begin{appendix}
 	\input{daten/Details_Techniker}
 \end{appendix}
-	
-	
+
+
 \end{document}
